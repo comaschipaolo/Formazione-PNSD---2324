@@ -5,7 +5,7 @@ Il materiale didattico del laboratorio è presentato nella forma di Notebook Goo
 
 ### Manuale di riferimento
 
-Indice - <a href="https://colab.research.google.com/drive/1Lt_kIIASs1tsGpx96wzHvaeeNnvTLmac?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
+Introduzione e indice - <a href="https://colab.research.google.com/drive/1Lt_kIIASs1tsGpx96wzHvaeeNnvTLmac?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
 
 0. La piattaforma Google Colab: <a href="https://colab.research.google.com/drive/1FhMpiKvmUdRwJ27ZCN876gj1Re99P4nR?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a> 
 1. Le variabili: <a href="https://colab.research.google.com/drive/18jYsREup1RChKhkU7v7lKgYcpkjCDfQ4?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
