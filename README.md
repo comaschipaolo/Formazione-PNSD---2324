@@ -39,15 +39,15 @@ Indice - <a href="https://colab.research.google.com/drive/1Lt_kIIASs1tsGpx96wzHv
     1. Test di primalità: <a href="https://colab.research.google.com/drive/1Pr5AVta-bk3RpyoCQi3DN-zZddU_3aPi?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
     2. Il crivello di Eratostene: <a href="https://colab.research.google.com/drive/1iN5jIX1Nxmji5t61HmjJX4Hkz5JlWgcB?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
 * Il metodo di Monte Carlo: <a href="https://colab.research.google.com/drive/1LBqC5_el83fhrJ1TZe8bQA-ABkVhmGUC?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
-* I frattali
-      1. La ricorsione e le immagini frattali: <a href="https://colab.research.google.com/drive/1Eq5O2HjzCyUZ30unVTCufAOlUmNUHlk0?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
-      2.L'insieme di Mandelbrot: <a href="https://colab.research.google.com/drive/1Pl-r9IsOWa3KSglcx4Gjf-PxTRd_RQeO?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
+* I frattali:
+    1. La ricorsione e le immagini frattali: <a href="https://colab.research.google.com/drive/1Eq5O2HjzCyUZ30unVTCufAOlUmNUHlk0?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
+    2.L'insieme di Mandelbrot: <a href="https://colab.research.google.com/drive/1Pl-r9IsOWa3KSglcx4Gjf-PxTRd_RQeO?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
 * L'evoluzione dinamica di un sistema e il metodo di Eulero:
     1. Prede e predatori: <a href="https://colab.research.google.com/drive/10O-gHwfNPSw5urtksWoDNqa5BObnIxxm?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
-    2. Cinematica unidimensionale TODO: <a href="https://colab.research.google.com/drive/1sfldvL0poVbZsYRpkHA7vCsL68KZRGP2?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
-    3. La gravitazione TODO: <a href="https://colab.research.google.com/drive/1rBCg_grPs0RKlrUfG1IOVaCRNFbgLSvp?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
+    2. Cinematica unidimensionale: <a href="https://colab.research.google.com/drive/1sfldvL0poVbZsYRpkHA7vCsL68KZRGP2?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
+    3. La gravitazione: <a href="https://colab.research.google.com/drive/1rBCg_grPs0RKlrUfG1IOVaCRNFbgLSvp?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
 * Teoria dei giochi e intelligenza artificiale: <a href="https://colab.research.google.com/drive/1xoAobXyNVHfXaqb1bq6aMcdFoU_GI-AZ?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
-* Risolvere le equazioni in modo approssimato TODO: <a href="https://colab.research.google.com/drive/1bIbmBbAYkgJX5bO-Fvjl8axZNecmgJLi?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
+* Risolvere le equazioni in modo approssimato: <a href="https://colab.research.google.com/drive/1bIbmBbAYkgJX5bO-Fvjl8axZNecmgJLi?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
 * Gioco Chomp-tagli e Minimax: <a href="https://colab.research.google.com/drive/1aw4wZ_Dlw_X750f0aekYrhfCC5hUsOtH?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
 
 ## Matematica
