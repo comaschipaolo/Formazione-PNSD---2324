@@ -54,6 +54,7 @@ Indice - <a href="https://colab.research.google.com/drive/1Lt_kIIASs1tsGpx96wzHv
 * Risolvere le equazioni in modo approssimato: <a href="https://colab.research.google.com/drive/1bIbmBbAYkgJX5bO-Fvjl8axZNecmgJLi?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
 * Gioco Chomp-tagli e Minimax: <a href="https://colab.research.google.com/drive/1aw4wZ_Dlw_X750f0aekYrhfCC5hUsOtH?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
 
+# Idee per la didattica curricolare
 ## Matematica
 1. Esercizi:
 > * Algebra:
