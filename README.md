@@ -33,9 +33,9 @@ Indice - <a href="https://colab.research.google.com/drive/1Lt_kIIASs1tsGpx96wzHv
 
 
 
-## Sfide di coding
+## Approfondimenti
 
-* Esploriamo i numeri primi:
+* I numeri primi:
     1. Test di primalità: <a href="https://colab.research.google.com/drive/1Pr5AVta-bk3RpyoCQi3DN-zZddU_3aPi?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
     2. Il crivello di Eratostene TODO: <a href="https://colab.research.google.com/drive/1iN5jIX1Nxmji5t61HmjJX4Hkz5JlWgcB?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
 * Il metodo di Monte Carlo: <a href="https://colab.research.google.com/drive/1LBqC5_el83fhrJ1TZe8bQA-ABkVhmGUC?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
