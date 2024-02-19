@@ -23,17 +23,21 @@ Introduzione e indice - <a href="https://colab.research.google.com/drive/1Lt_kII
 
    Soluzioni: <a href="https://colab.research.google.com/drive/11n5qeSUnAQMl-P0Dc-5ysGu8AatQHe4k?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
 
-3. Matematica e tartarughe: <a href="https://colab.research.google.com/drive/1TqRKOQm7UcpFRCoHJ8D6ieqxpX3mnNcH?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
+2. Matematica e tartarughe: <a href="https://colab.research.google.com/drive/1TqRKOQm7UcpFRCoHJ8D6ieqxpX3mnNcH?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
 
    Soluzioni: <a href="https://colab.research.google.com/drive/1gvv4ZgRLvC9qNorWATWWMCKgqLh8zPA_?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
 
-4. Tartarughe e ciclo for: <a href="https://colab.research.google.com/drive/19QTzNUb-QVM_40QY4J0WKiDPg5l_q63h?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
+3. Tartarughe e ciclo for: <a href="https://colab.research.google.com/drive/19QTzNUb-QVM_40QY4J0WKiDPg5l_q63h?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
 
    Soluzioni: <a href="https://colab.research.google.com/drive/1LAuWplrcF7tA0J-HK_UqTQtDshIWjIvg?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
 
-6. Tartarughe che prendono decisioni: <a href="https://colab.research.google.com/drive/1LNJoYACzLiK0xto1tNJk8GZpq-N-u4Mq?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
+4. Tartarughe che prendono decisioni: <a href="https://colab.research.google.com/drive/1LNJoYACzLiK0xto1tNJk8GZpq-N-u4Mq?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
 
    Soluzioni: <a href="https://colab.research.google.com/drive/1wbFsMJtYgw3RQjotxqJMPCnQuqh6iVX0?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
+
+5. Tartarughe e funzioni: <a href="https://colab.research.google.com/drive/1KoYkGz5MmofcAQ_OgfcfJXxXErHfG8cz?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
+
+   Soluzioni: <a href="https://colab.research.google.com/drive/1w5DLathYY34CfSxCf5Nlx9WMjERgqxGS?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
 
 
 
