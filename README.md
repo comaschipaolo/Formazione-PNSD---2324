@@ -39,6 +39,22 @@ Introduzione e indice - <a href="https://colab.research.google.com/drive/1Lt_kII
 
    Soluzioni: <a href="https://colab.research.google.com/drive/1w5DLathYY34CfSxCf5Nlx9WMjERgqxGS?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
 
+6. Il ciclo while: <a href="https://colab.research.google.com/drive/151IOKvRr92gE34FB1rfo1105bcfT4wDc?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
+
+   Soluzioni: <a href="https://colab.research.google.com/drive/1CsSvBxSEPfbp7mk5Kj7lAU_s2xPCAtCX?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
+
+7. Le liste: <a href="https://colab.research.google.com/drive/1OehNIAwZpiKPEC4RuLfTyVp3zy-hmFLO?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
+
+   Soluzioni: <a href="https://colab.research.google.com/drive/1ptey3zVh7N3nz48LeksydKrw_iQZMCFn?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
+
+8. Gli array: <a href="https://colab.research.google.com/drive/1QVKWWUCEtYBbbTLX67oIm3CD1kVQtWm2?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
+
+   Soluzioni: <a href="https://colab.research.google.com/drive/1ONxN5YYmnlRX_2m8UcRfuXpppd4WGE0Q?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
+
+9. La rappresentazione grafica: <a href="https://colab.research.google.com/drive/1lbRIzeQb8A1-cmrRZWGRoc28iSKYv_a2?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
+
+   Soluzioni: <a href="" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Apri In Colab"/></a>
+
 
 
 ## Approfondimenti
